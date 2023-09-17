@@ -51,7 +51,7 @@ This project is licensed under the Creative Commons Attribution-NonCommercial-Sh
 
 -[3D printed Case](https://www.thingiverse.com/thing:6221860)
 
-##disclaimer
+## disclaimer
 
 Without knowing what's typical for you, it's hard to know if your numbers are concerning. 
 While 95% to 100% is normal for most healthy people, someone with chronic lung disease may be at 92% "on a good day." 
