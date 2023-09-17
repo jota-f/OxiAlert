@@ -51,3 +51,12 @@ This project is licensed under the Creative Commons Attribution-NonCommercial-Sh
 
 -[3D printed Case](https://www.thingiverse.com/thing:6221860)
 
+##disclaimer
+
+Without knowing what's typical for you, it's hard to know if your numbers are concerning. 
+While 95% to 100% is normal for most healthy people, someone with chronic lung disease may be at 92% "on a good day." 
+See a doctor "if the number is trending downward over time and drops to 92% or lower, especially if you are experiencing other respiratory symptoms."
+
+This is a device developed as a form of study, it is not medical equipment.
+There is no approval and/or tests that prove its correct functioning. Use at your own risk
+
