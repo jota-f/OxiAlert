@@ -31,6 +31,14 @@ Oxialert is an open-source pulse oximeter project based on the MAX30105 sensor a
 - The system will display SpO2 and BPM readings on the LED indicator.
 - An alarm will sound if abnormal readings are detected.
 
+## Imnages
+![image](https://github.com/jota-f/OxiAlert/assets/21985346/3722dc6a-6976-4b09-a9b1-d822c43658a7)
+
+![image](https://github.com/jota-f/OxiAlert/assets/21985346/f6e4ae5b-c728-4184-aca6-50ff461d464a)
+
+## Video
+-[OxiAlert](https://youtube.com/shorts/Uhm0x5Izof8?feature=share)
+
 ## License
 
 This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. See the [LICENSE](LICENSE) file for details.
