@@ -41,5 +41,5 @@ This project is licensed under the Creative Commons Attribution-NonCommercial-Sh
 
 ## Acknowledgments
 
--[[3D printed Case]] - (https://www.thingiverse.com/thing:6221860)https://www.thingiverse.com/thing:6221860
+-[3D printed Case](https://www.thingiverse.com/thing:6221860)
 
